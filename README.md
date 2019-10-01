@@ -95,10 +95,11 @@ https://ess.cs.tu-dortmund.de/Software/AnimOS/CPU-Scheduling/
 
 ## 同步
 遗漏知识点很多，还未贯通
+![](https://i.imgur.com/fA5g7TB.png)
 
 ---
 
-## 死锁（重点考点）
+## 死锁
 
 - 什么是死锁？
 
