@@ -30,7 +30,7 @@
 
 
 ---
-## 进程与线程：
+## 进程与线程
 对应课件：2019春季OS课课件，第十一讲 进程与线程
 
 
@@ -100,7 +100,7 @@ https://ess.cs.tu-dortmund.de/Software/AnimOS/CPU-Scheduling/
 ---
 
 ## 死锁
-
+（考试大重点！背就完事了！）
 - 什么是死锁？
 
 ![](https://i.imgur.com/PrTsIQv.png)
@@ -211,5 +211,6 @@ https://blog.csdn.net/dongyanxia1000/article/details/51705957
 ![](https://i.imgur.com/ssR9VID.jpg)
 
 
-## 未完待续01.10.2019
+## 未完待续
+01.10.2019
 ![](https://i.imgur.com/fA5g7TB.png)
