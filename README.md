@@ -4,6 +4,9 @@
 清华大学OS课程: （内涵配套习题）https://github.com/chyyuu/os_course_info
 
 哔哩哔哩网上课程：https://www.bilibili.com/video/av6538245?from=search&seid=2108582505794172756
+## 目录
+
+[TOC]
 
 ---
 
@@ -194,75 +197,4 @@ https://blog.csdn.net/dongyanxia1000/article/details/51705957
 ![](https://i.imgur.com/ssR9VID.jpg)
 
 
----
-
-<style>
-code.blue {
-  color: #337AB7 !important;
-}
-code.orange {
-  color: #F7A004 !important;
-}
-</style>
-
-- <code class="orange">onMessage('event')</code>: Register event listener
-- <code class="blue">sendMessage('event')</code>: Trigger event
-
----
-
-# :bulb: 
-
----
-
-- Dead simple API
-- Only cares about application logic
-
----
-
-```typescript
-import * as Channeru from 'channeru'
-
-// setup channel in different page environment, once
-const channel = Channeru.create()
-```
-
----
-
-```typescript
-// in background script
-const fakeLogin = async () => true
-
-channel.answer('isLogin', async () => {
-  return await fakeLogin()
-})
-```
-
-<br>
-
-```typescript
-// in inject script
-const isLogin = await channel.callBackground('isLogin')
-console.log(isLogin) //-> true
-```
-
----
-
-# :100: :muscle: :tada:
-
----
-
-### Wrap up
-
-- Cross envornment commnication
-- A small library to solve messaging pain
-- TypeScript Rocks :tada: 
-
----
-
-### Thank you! :sheep: 
-
-You can find me on
-
-- GitHub
-- Twitter
-- or email me
+## 未完待续01.10.2019
