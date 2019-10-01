@@ -11,16 +11,13 @@
    * [目录](#目录)
    * [知识框架](#知识框架)
    * [进程与线程](#进程与线程)
-   * [Usage](#usage)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
+   * [调度算法](#调度算法)
+   * [同步](#同步)
+   * [死锁](#死锁)
+   * [进程间的通信](#进程间的通信)
+   * [物理内存管理](#物理内存管理)
+   * [同步虚拟存储](#虚拟存储)
+   * [未完待续01.10.2019](#未完待续01.10.2019)
 <!--te-->
 
 
