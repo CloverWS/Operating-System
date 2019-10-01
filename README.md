@@ -8,9 +8,9 @@
 ## 目录
 
 <!--ts-->
-   * [gh-md-toc](#gh-md-toc)
+   * [目录](#目录)
    * [知识框架](#知识框架)
-   * [Installation](#installation)
+   * [进程与线程](#进程与线程)
    * [Usage](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
