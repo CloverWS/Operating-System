@@ -7,7 +7,22 @@
 
 ## 目录
 
- [TOC]
+<!--ts-->
+   * [gh-md-toc](#gh-md-toc)
+   * [知识框架](#知识框架)
+   * [Installation](#installation)
+   * [Usage](#usage)
+      * [STDIN](#stdin)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+      * [Auto insert and update TOC](#auto-insert-and-update-toc)
+      * [GitHub token](#github-token)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+<!--te-->
+
 
 ---
 
