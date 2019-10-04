@@ -78,6 +78,7 @@ Copy on write（必须掌握）
 ---
 
 ## 调度算法
+[<img align="right" width="100" height="100" src="https://i.imgur.com/zQHdeVd.png"/>](#目录)
 ![](https://i.imgur.com/PZ8pWOp.jpg)
 ![](https://i.imgur.com/73J0Z3L.jpg)
 
@@ -95,12 +96,14 @@ https://ess.cs.tu-dortmund.de/Software/AnimOS/CPU-Scheduling/
 ---
 
 ## 同步
+[<img align="right" width="100" height="100" src="https://i.imgur.com/zQHdeVd.png"/>](#目录)
 遗漏知识点很多，还未贯通
 ![](https://i.imgur.com/fA5g7TB.png)
 
 ---
 
 ## 死锁
+[<img align="right" width="100" height="100" src="https://i.imgur.com/zQHdeVd.png"/>](#目录)
 （考试大重点！背就完事了！）
 - 什么是死锁？
 
@@ -147,6 +150,7 @@ https://www.bilibili.com/video/av6538245/?p=68
 ---
 
 ## 进程间的通信
+[<img align="right" width="100" height="100" src="https://i.imgur.com/zQHdeVd.png"/>](#目录)
 - 概念
 ![](https://i.imgur.com/4j9xhct.png)
 
@@ -193,6 +197,7 @@ https://blog.csdn.net/dongyanxia1000/article/details/51705957
 ---
 
 ## 虚拟存储
+[<img align="right" width="100" height="100" src="https://i.imgur.com/zQHdeVd.png"/>](#目录)
 - 请求调页（去课件上看）
 ![](https://i.imgur.com/M8TWc3u.png)
 ![](https://i.imgur.com/uFOQKks.png)
@@ -213,5 +218,6 @@ https://blog.csdn.net/dongyanxia1000/article/details/51705957
 
 
 ## 未完待续
+[<img align="right" width="100" height="100" src="https://i.imgur.com/zQHdeVd.png"/>](#目录)
 01.10.2019
 ![](https://i.imgur.com/fA5g7TB.png)
