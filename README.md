@@ -23,7 +23,7 @@
 
 ---
 
-## 知识框架
+## 知识框架mind map(with English Version)
 
 ![](https://i.imgur.com/VfMIVxa.png)
 
